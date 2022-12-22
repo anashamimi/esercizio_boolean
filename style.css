@@ -1,0 +1,73 @@
+/* SELETTORE{
+  proprieta: valore;
+  proprieta: valore;
+
+} */
+.quadrato{
+
+  background-color: rgba(0, 0, 0, 0.5);
+  margin-top: 10px;
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-bottom: 50px;
+  border-radius: 20px 20px 20px 20px;
+
+}
+
+#logo{
+  margin-top: 100px;
+  height: 100px;
+  width: auto;
+}
+
+header{
+  text-align: center;
+}
+body{
+  background-image: url(MaterialeEsercizioLim/background.jpg);
+  background-size: cover;
+
+}
+
+H1{
+  color: lime;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.title{
+  color: white;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.bottone{
+  display: inline-block;
+  background-color: lime;
+  padding: 5px 350px;
+}
+
+
+#linea1{
+  border-top: 22px solid #f5b453;
+  margin-right: 750px;
+  border-radius: 6px 6px 6px 6px;
+}
+
+#linea2{
+  border-top: 22px solid #1ec31e;
+  margin-right: 550px;
+  border-radius: 6px 6px 6px 6px;
+}
+
+#linea3{
+  border-top: 22px solid #be4141;
+  margin-right: 850px;
+  border-radius: 6px 6px 6px 6px;
+
+}
+
+.square{
+  list-style-type: square;
+
+
+
+}
